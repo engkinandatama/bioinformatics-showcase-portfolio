@@ -33,7 +33,7 @@ A modern and responsive portfolio website to showcase my skills, projects, and e
    ```
 2. Navigate to the project directory:
     ```bash
-    cd portfolio-website
+    cd my-portfolio-website
     ```
 3. Install dependencies:
    ```bash
